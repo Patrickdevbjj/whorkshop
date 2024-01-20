@@ -7,7 +7,7 @@ import java.time.Instant;
 import java.util.Objects;
 
 @Entity
-@Table(name = "tb_user")
+@Table(name = "tb_table")
 public class Order implements Serializable {
 
     @Id

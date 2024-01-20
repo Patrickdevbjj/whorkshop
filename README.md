@@ -12,3 +12,7 @@ Resources: Responsible for intercepting requests coming from the client, whether
 Service: Responsible for the business rules of the application, solves the business rule and calls the repository to perform the operation in the database.
 
 Repository: Responsible for accessing the database and performing operations on it.
+
+Class Diagram - Diagrama de classes 
+-
+https://whimsical.com/workshop-7U6Tq7NjRHx2VkZJdTKHmU
